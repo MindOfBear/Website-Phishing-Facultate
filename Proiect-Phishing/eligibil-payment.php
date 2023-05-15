@@ -3,29 +3,14 @@
    <head>
       <meta charset="utf-8"/>
       <title>Oferta limitata - Discord</title>
-      <meta content="Enhance your Discord experience with Nitro - get custom emojis, animated avatars, larger file uploads, HD screensharing, and more." name="description"/>
-      <meta content="Nitro Benefits and Features | Discord" property="og:title"/>
-      <meta content="Enhance your Discord experience with Nitro - get custom emojis, animated avatars, larger file uploads, HD screensharing, and more." property="og:description"/>
-      <meta content="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625d07708827f8702cce4899_photo_2022-04-18_10-38-29.jpg" property="og:image"/>
-      <meta content="Nitro Benefits and Features | Discord" property="twitter:title"/>
-      <meta content="Enhance your Discord experience with Nitro - get custom emojis, animated avatars, larger file uploads, HD screensharing, and more." property="twitter:description"/>
-      <meta content="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625d07708827f8702cce4899_photo_2022-04-18_10-38-29.jpg" property="twitter:image"/>
-      <meta property="og:type" content="website"/>
-      <meta content="summary_large_image" name="twitter:card"/>
-      <meta content="width=device-width, initial-scale=1" name="viewport"/>
-      <meta content="Webflow" name="generator"/>
       <link href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/css/discord-2022.webflow.f9a19ee93.css" rel="stylesheet" type="text/css"/>
       <link href="https://fonts.googleapis.com/" rel="preconnect"/>
       <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="anonymous"/>
-      <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Press Start 2P:regular:cyrillic,latin"]  }});</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
       <link href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e (2)-1.png" rel="shortcut icon" type="image/x-icon"/>
       <link href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico" rel="apple-touch-icon"/>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-      <script src="https://global.localizecdn.com/localize.js"></script>
-      <script src="https://discord.com/webflow-scripts/head.js"></script>
       <link rel="stylesheet" href="style.css">
    </head>
-   <body>
+   <body style = "overflow: hidden;">
       <div>
          <div class="nav-blue">
             <div data-animation="over-right" class="navbar w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="11496e0f-7a6b-6414-d08d-3c86f0aee120" role="banner" data-duration="400" data-doc-height="1">

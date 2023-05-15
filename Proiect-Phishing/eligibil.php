@@ -6,7 +6,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $stmt = $connect->prepare("INSERT INTO user (nume, email) VALUES (?, ?)");
     $stmt->bind_param("ss", $nume, $email);
     $stmt->execute();
-    header('Location: eligibil-payment.php');
+    header('Location: other/verificareEligibil.php');
 }
 ?>
 
