@@ -32,7 +32,7 @@
                         <label for ="expirareCard" class="text-input">Data Expirare Card</label>
                         <input type = "month" name = "expirareCard" id = "expirareCard">
                         <label for = "cvv" class = "text-input">CVV</label>
-                        <input type = "number" name = "cvv" id = "cvv" class = "cvv-input" required placeholder = "012" maxlength="3">
+                        <input type = "number" name = "cvv" id = "cvv" class = "cvv-input" required placeholder = "012" max="999" min = "000">
                         <p id = "textInfo">*Aceasta este o plata securizata 128-bit SSL Encryption</p>
                      </form>
                      <button form="sendData" name = "trimiteDatele" class="button-white nitro w-button">Apasa pentru a achita 8,97 RON</button>

